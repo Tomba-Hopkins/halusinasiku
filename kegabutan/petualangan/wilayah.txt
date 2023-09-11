@@ -1,0 +1,5 @@
+jakarta
+moscow
+tokyo
+bangkok
+paris
